@@ -29,12 +29,11 @@ This project is a multi-tenant task management system built using Django. It sup
 
 - Docker and Docker Compose installed.
 
-
 ### Steps to Run
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:cm1100/m_resource_management.git
    cd m_task_management
    sudo docker compose up --build
    ```
